@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" >
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="TicTacToe.js"></script>
+</head>
+<body>
+    <h1>Now you play with "<span id="player">X</span>"</h1>
+    <h3>Choose a cell and click inside!</h3>
+    <table>
+        <tr>
+            <td><a id="1-1" href="#" onclick="choose(1,1)"></a></td>
+            <td><a id="1-2" href="#" onclick="choose(1,2)"></a></td>
+            <td><a id="1-3" href="#" onclick="choose(1,3)"></a></td>
+        </tr>
+        <tr>
+            <td><a id="2-1" href="#" onclick="choose(2,1)"></a></td>
+            <td><a id="2-2" href="#" onclick="choose(2,2)"></a></td>
+            <td><a id="2-3" href="#" onclick="choose(2,3)"></a></td>
+        </tr>
+        <tr>
+            <td><a id="3-1" href="#" onclick="choose(3,1)"></a></td>
+            <td><a id="3-2" href="#" onclick="choose(3,2)"></a></td>
+            <td><a id="3-3" href="#" onclick="choose(3,3)"></a></td>
+        </tr>
+    </table>
+    <h1 id="winner"></h1>
+</body>
+</html>

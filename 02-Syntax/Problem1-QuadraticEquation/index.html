@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Quadratic Equation</title>
+    <script type="text/javascript">
+        function eval() {
+            var a = Number(document.getElementById('a').value);
+            var b = Number(document.getElementById('b').value);
+            var c = Number(document.getElementById('c').value);
+
+            var discriminant = b * b - 4 * a * c;
+
+            if (discriminant > 0) {
+                var x1 = (0 - b + Math.sqrt(discriminant)) / (2 * a);
+                var x2 = (0 - b - Math.sqrt(discriminant)) / (2 * a);
+                document.getElementById("solution").innerHTML = 'X1 = ' + x1 + '/nX2 = ' + x2;
+            } else if (discriminant === 0) {
+                var x = (0 - b + Math.sqrt(discriminant)) / (2 * a);
+                document.getElementById("solution").innerHTML = 'X = ' + x;
+            } else {
+                document.getElementById("solution").innerHTML = 'No real roots';
+            }
+        }
+    </script>
+</head>
+<body>
+    <form>
+        <label>Enter a:</label><br />
+        <input type="text" id="a"/><br /><br />
+        <label>Enter b:</label><br />
+        <input type="text" id="b"/><br /><br />
+        <label>Enter c:</label><br />
+        <input type="text" id="c"/><br /><br />
+        <button onclick="eval(); return false;">Evaluate</button>
+    </form>
+    <p id="solution"></p>
+</body>
+</html>
