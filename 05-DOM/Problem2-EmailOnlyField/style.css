@@ -1,0 +1,14 @@
+input, div {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+div {
+    line-height: 40px;
+}
+
+input[type="button"] {
+    width: 100px;
+}

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c0f5a4f-1919-459f-b08a-69a365adb165" name="Default" comment="" />
+    <list default="true" id="7c0f5a4f-1919-459f-b08a-69a365adb165" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,18 +25,10 @@
     <favorites_list name="JS" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="concerts.js" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem9-Concerts/concerts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25714287" vertical-offset="0" max-vertical-offset="910">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,6 +54,8 @@
         <option value="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem7-RevealTriangles/revealTriangles.js" />
         <option value="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem8-ExtractHyperlinks/extractHyperlinks.js" />
         <option value="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem9-Concerts/concerts.js" />
+        <option value="$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/ScoreModification.js" />
+        <option value="$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/ReplaceTag.js" />
       </list>
     </option>
   </component>
@@ -72,7 +68,7 @@
     <option name="width" value="1633" />
     <option name="height" value="1026" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -95,31 +91,15 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="JSBasics-Homeworks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSBasics-Homeworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02-Syntax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSBasics-Homeworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSBasics-Homeworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -132,49 +112,49 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/WebStromProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$USER_HOME$/WebstormProjects/JSBasics-Homeworks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Documents/WebstormProjects" />
+      <recent name="$PROJECT_DIR$/../../WebstormProjects" />
       <recent name="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax" />
       <recent name="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem6-BuildATable" />
       <recent name="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/Intro" />
       <recent name="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/Problem3-Clock" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js._01_current-time.js">
-    <configuration default="false" name="revealTriangles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="revealTriangles.js" working-dir="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem7-RevealTriangles">
+  <component name="RunManager" selected="Node.js.CourseGradeScaling.js">
+    <configuration default="false" name="_01_current-time.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="_01_current-time.js" working-dir="$PROJECT_DIR$/../../Temp/js-homeworks/_01_JavaScript_HomeWorks/_01_JavaScript Development Introduction">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <configuration default="false" name="extractHyperlinks.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="extractHyperlinks.js" working-dir="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem8-ExtractHyperlinks">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
-    <configuration default="false" name="concerts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="concerts.js" working-dir="$USER_HOME$/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem9-Concerts">
+    <configuration default="false" name="ArrayManipulator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="ArrayManipulator.js" working-dir="$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops">
       <RunnerSettings RunnerId="Basic" />
       <RunnerSettings RunnerId="debuggableProgram" />
       <ConfigurationWrapper RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
-    <configuration default="false" name="current-time.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="current-time.js" working-dir="$USER_HOME$/.cache/.fr-VIA1Gf/1-CurrentTime">
+    <configuration default="false" name="ScoreModification.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="ScoreModification.js" working-dir="$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <configuration default="false" name="_01_current-time.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="_01_current-time.js" working-dir="$USER_HOME$/Documents/Temp/js-homeworks/_01_JavaScript_HomeWorks/_01_JavaScript Development Introduction">
+    <configuration default="false" name="ReplaceTag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="ReplaceTag.js" working-dir="$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CourseGradeScaling.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/bin/node" path-to-js-file="CourseGradeScaling.js" working-dir="$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
@@ -218,19 +198,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.revealTriangles.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.extractHyperlinks.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.concerts.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.current-time.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js._01_current-time.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js._01_current-time.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.ArrayManipulator.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.ScoreModification.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.ReplaceTag.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.CourseGradeScaling.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js._01_current-time.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.current-time.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.concerts.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.extractHyperlinks.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.revealTriangles.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.CourseGradeScaling.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.ReplaceTag.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ScoreModification.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.ArrayManipulator.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js._01_current-time.js" />
       </list>
     </recent_temporary>
   </component>
@@ -249,10 +229,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1633" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24923454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24923454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -291,167 +271,57 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem1-QuadraticEquation/index.html</url>
+          <url>file://$PROJECT_DIR$/../../WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem1-QuadraticEquation/index.html</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/ArrayManipulator.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem9-Concerts/concerts.js">
+    <entry file="file://$PROJECT_DIR$/04-Functions/Problem1-ArrayObjectExtractor/arrayObjectExtractor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem9-Concerts/concerts.js">
+    <entry file="file://$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/ArrayManipulator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/1-CurrentTime/current-time.js">
+    <entry file="file://$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/CourseGradeScaling.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem1-CircleArea/circle-area.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem3-Clock/clock.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="306">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem3-Clock/clock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2853907" vertical-offset="0" max-vertical-offset="883">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem4-Tic-Tac-Toe/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1223103" vertical-offset="0" max-vertical-offset="883">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem4-Tic-Tac-Toe/TicTacToe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem4-Tic-Tac-Toe/Tic-Tac-Toe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="648">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem1-QuadraticEquation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.333334" vertical-offset="0" max-vertical-offset="792">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.38423645" vertical-offset="0" max-vertical-offset="774">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem1-CircleArea/circle-area.js">
+    <entry file="file://$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/ReplaceTag.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/01-Introduction/Problem2-DecToHex/dec2hex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="342">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem2-CalculateKnots/calculateknots.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem3-CylinderVolume/cylinderVol.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem4-TheLifetimeSupplyCalculator/lifetimeSupplyCalc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="2" column="86" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem5-CalculateExpression/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="324">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="609">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem5-CalculateExpression/calcExpression.js">
+    <entry file="file://$PROJECT_DIR$/../../Temp/js-homeworks/Homework-array,loops/ScoreModification.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03900325" vertical-offset="0" max-vertical-offset="923">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem6-BuildATable/buildATable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem7-RevealTriangles/revealTriangles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem8-ExtractHyperlinks/extractHyperlinks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WebstormProjects/JSBasics-Homeworks/02-Syntax/Problem9-Concerts/concerts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25714287" vertical-offset="0" max-vertical-offset="910">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.56157637" vertical-offset="0" max-vertical-offset="609">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
           <folding />
         </state>
       </provider>
